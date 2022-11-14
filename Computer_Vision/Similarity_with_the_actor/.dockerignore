@@ -1,0 +1,7 @@
+# to comment out the lines below for the new project
+#/dataset/raw/*
+#/dataset/processed/*
+
+/env
+#/model/*
+/notebook

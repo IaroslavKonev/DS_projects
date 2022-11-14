@@ -1,0 +1,43 @@
+load:
+  path:
+    load:
+      'data/raw'
+    write:
+      'data/processed'
+
+  images:
+    actor: ['Adam Sandler', 'Adrien Brody', 'Al Pacino', 'Anthony Hopkins', 'Antonio Banderas',
+            'Arnold Schwarzenegger', 'Ashton Kutcher', 'Ben Stiller', 'Ben Foster', 'Ben Affleck',
+            'Brad Pitt', 'Bruce Willis', 'Charlie Sheen', 'Christian Bale', 'Christoph Waltz',
+            'Clint Eastwood', 'Colin Firth', 'Cuba Gooding Jr.', 'Daniel Day-Lewis', 'Dennis Quaid',
+            'Denzel Washington', 'Donald Sutherland', 'Dustin Hoffman', 'Edward Norton', 'Gary Oldman',
+            'George Clooney','Gerard Butler','Harrison Ford','Hugh Grant','Hugh Jackman','Ian Holm',
+            'Jack Black','Jack Nicholson','Jake Gyllenhaal','James McAvoy','Jamie Foxx', 'Jeff Goldblum',
+            'Jeff Bridges','Jeremy Renner','Jim Carrey','John Travolta','John Malkovich', 'Johnny Depp',
+            'Jude Law','Keanu Reeves','Kevin Spacey','Leonardo DiCaprio','Liam Neeson', 'Martin Sheen',
+            'Matt Damon','Matthew McConaughey','Mel Gibson','Michael Douglas','Morgan Freeman', 'Nicolas Cage',
+            'Orlando Bloom','Owen Wilson','Philip Seymour Hoffman','Robert De Niro', 'Russell Crowe',
+            'Ryan Gosling','Sam Rockwell','Sam Neill','Samuel L. Jackson', 'Stephen Lang', 'Steve Martin',
+            'Steve Carell', 'Sylvester Stallone', 'Tobey Maguire', 'Tom Cruise', 'Tom Hanks','Tommy Lee Jones',
+            'Will Smith','Willem Dafoe']
+
+    SIZE:
+      256
+    limit_load:
+      15
+
+train:
+  key_load_img:
+    False
+  test_size:
+    0.25
+  random_state:
+    10
+  path_model:
+    'model/model.pkl'
+
+predict:
+  SIZE:
+    1024
+  path_load:
+    'test_image.jpg'
