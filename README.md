@@ -32,32 +32,32 @@
       <td>Pandas, Sklearn, LightGBM, Matplotlib, Seaborn, Xgboost, Catboost, LightGBM, Numpy</td>
   </tr>
   <tr>
-      <td>Computer_Vision</td>
-      <td>Pong_Game</td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Pong_Game">Pong_Game</a>></td>
       <td>There is small pet project. I coded CV_Game.</td>
       <td>OpenCV, CVzone, Numpy</td>
   </tr>
   <tr>
-      <td>Computer_Vision</td>
-      <td>Prediction_the_age_of_customers</td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Prediction_the_age_of_customers">Prediction_the_age_of_customers</a></td>
       <td>In this task I developed a neural network to predict the age of a person from the photo.</td>
       <td>TensorFlow, Keras, Numpy, Pandas, Matplotlib</td>
   </tr>
   <tr>
-      <td>Computer_Vision</td>
-      <td>Similarity_with_the_actor</td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Similarity_with_the_actor">Similarity_with_the_actor</a>></td>
       <td>Pet-project. I packed in a docker service that detects a similar actor from the photo.</td>
       <td>Pandas, Numpy, Face_Recognition, Scikit_Learn, Matplotlib</td>
   </tr>
   <tr>
-      <td>Natural_Language_Processing</td>
-      <td>Classification_(Bert)</td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Classification%20(Bert)">Classification_(Bert)</a></td>
       <td>The task is to train a model to find the appeals of bank customers consist of description of special type of fraud they faced from all of the customers' feedback.</td>
       <td>Pandas, Numpy, PyTorch, Transformers, Matplotlib</td>
   </tr>
   <tr>
-      <td>Natural_Language_Processing</td>
-      <td>Sentiment Analysis_(Classic_ML)</td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Sentiment%20Analysis_(Classic_ML)">Sentiment Analysis_(Classic_ML)</a></td>
       <td>The store needs a tool that will look for toxic comments and send them for moderation.</td>
       <td>Pandas, Numpy, NLTK, Scikit_Learn, Matplotlib</td>
   </tr>
