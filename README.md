@@ -33,7 +33,7 @@
   </tr>
   <tr>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Pong_Game">Pong_Game</a>></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Pong_Game">Pong_Game</a></td>
       <td>There is small pet project. I coded CV_Game.</td>
       <td>OpenCV, CVzone, Numpy</td>
   </tr>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Similarity_with_the_actor">Similarity_with_the_actor</a>></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Similarity_with_the_actor">Similarity_with_the_actor</a></td>
       <td>Pet-project. I packed in a docker service that detects a similar actor from the photo.</td>
       <td>Pandas, Numpy, Face_Recognition, Scikit_Learn, Matplotlib</td>
   </tr>
