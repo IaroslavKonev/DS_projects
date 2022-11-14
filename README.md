@@ -26,7 +26,7 @@
       <td>Pandas, Numpy, Matplotlib, Binance, XGB, TensorFlow, Keras, SciPy</td>
   </tr>
   <tr>
-      <td>Classic_ML</td>
+      <td>[Classic_ML](https://github.com/IaroslavKonev/DS_projects/tree/main/Classic_ML)</td>
       <td>Predicting customer churn of a telecom operator.</td>
       <td>Telecom operator Notbreakconnection.com wants to learn how to predict customer churn. If it turns out that the user is planning to leave, they will be offered promo codes and special terms. The operator's team collected personal data on some customers, information about their tariffs and contracts.</td>
       <td>Pandas, Sklearn, LightGBM, Matplotlib, Seaborn, Xgboost, Catboost, LightGBM, Numpy</td>
