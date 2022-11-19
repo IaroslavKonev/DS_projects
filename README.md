@@ -7,6 +7,18 @@
       <th>Description</th>
       <th>Libraries</th>
   </tr>
+   <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Classification%20(Bert)">Classification_(Bert)</a></td>
+      <td>The task is to train a model to find the appeals of bank customers consist of description of special type of fraud they faced from all of the customers' feedback.</td>
+      <td>Pandas, Numpy, PyTorch, Transformers, Matplotlib</td>
+  </tr>
+  <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Sentiment%20Analysis_(Classic_ML)">Sentiment Analysis_(Classic_ML)</a></td>
+      <td>The store needs a tool that will look for toxic comments and send them for moderation.</td>
+      <td>Pandas, Numpy, NLTK, Scikit_Learn, Matplotlib</td>
+  </tr>
   <tr>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Crypto_trading_hackathon">Crypto_trading_hackathon</a></td>
@@ -49,18 +61,7 @@
       <td>Pet-project. I packed in a docker service that detects a similar actor from the photo.</td>
       <td>Pandas, Numpy, Face_Recognition, Scikit_Learn, Matplotlib</td>
   </tr>
-  <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Classification%20(Bert)">Classification_(Bert)</a></td>
-      <td>The task is to train a model to find the appeals of bank customers consist of description of special type of fraud they faced from all of the customers' feedback.</td>
-      <td>Pandas, Numpy, PyTorch, Transformers, Matplotlib</td>
-  </tr>
-  <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing">Natural_Language_Processing</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Natural_Language_Processing/Sentiment%20Analysis_(Classic_ML)">Sentiment Analysis_(Classic_ML)</a></td>
-      <td>The store needs a tool that will look for toxic comments and send them for moderation.</td>
-      <td>Pandas, Numpy, NLTK, Scikit_Learn, Matplotlib</td>
-  </tr>
+ 
       
 </table>
 
