@@ -20,30 +20,6 @@
       <td>Pandas, Numpy, NLTK, Scikit_Learn, Matplotlib</td>
   </tr>
   <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Crypto_trading_hackathon">Crypto_trading_hackathon</a></td>
-      <td>9th Place on public. More than 2 000 000 USDT profit. Trading strategy with using ML-models which predict price.</td>
-      <td>Pandas, Scikit_Learn, Matplotlib, Numpy</td>
-  </tr>
-  <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Reinforcement_Learning">Reinforcement_Learning</a></td>
-      <td>There is my first ReinforcementLearning-project. I built 2 different agents and environments. Environment with custom features gave +40%(!) profit.</td>
-      <td>GYM, stable_baselines, TensorFlow, Pandas, Numpy, Matplotlib</td>
-  </tr>
-  <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Research">Research</a></td>
-      <td>Several research projects on the topic of financial markets and cryptocurrencies</td>
-      <td>Pandas, Numpy, Matplotlib, Binance, XGB, TensorFlow, Keras, SciPy</td>
-  </tr>
-  <tr>
-      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Classic_ML">Classic_ML</a></td>
-      <td>Predicting customer churn of a telecom operator.</td>
-      <td>Telecom operator Notbreakconnection.com wants to learn how to predict customer churn. If it turns out that the user is planning to leave, they will be offered promo codes and special terms. The operator's team collected personal data on some customers, information about their tariffs and contracts.</td>
-      <td>Pandas, Sklearn, LightGBM, Matplotlib, Seaborn, Xgboost, Catboost, LightGBM, Numpy</td>
-  </tr>
-  <tr>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision">Computer_Vision</a></td>
       <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Computer_Vision/Pong_Game">Pong_Game</a></td>
       <td>There is small pet project. I coded CV_Game.</td>
@@ -61,8 +37,30 @@
       <td>Pet-project. I packed in a docker service that detects a similar actor from the photo.</td>
       <td>Pandas, Numpy, Face_Recognition, Scikit_Learn, Matplotlib</td>
   </tr>
- 
-      
+  <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Classic_ML">Classic_ML</a></td>
+      <td>Predicting customer churn of a telecom operator.</td>
+      <td>Telecom operator Notbreakconnection.com wants to learn how to predict customer churn. If it turns out that the user is planning to leave, they will be offered promo codes and special terms. The operator's team collected personal data on some customers, information about their tariffs and contracts.</td>
+      <td>Pandas, Sklearn, LightGBM, Matplotlib, Seaborn, Xgboost, Catboost, LightGBM, Numpy</td>
+  </tr>
+  <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Crypto_trading_hackathon">Crypto_trading_hackathon</a></td>
+      <td>9th Place on public. More than 2 000 000 USDT profit. Trading strategy with using ML-models which predict price.</td>
+      <td>Pandas, Scikit_Learn, Matplotlib, Numpy</td>
+  </tr>
+  <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Reinforcement_Learning">Reinforcement_Learning</a></td>
+      <td>There is my first ReinforcementLearning-project. I built 2 different agents and environments. Environment with custom features gave +40%(!) profit.</td>
+      <td>GYM, stable_baselines, TensorFlow, Pandas, Numpy, Matplotlib</td>
+  </tr>
+  <tr>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market">Stocks_Market</a></td>
+      <td><a href="https://github.com/IaroslavKonev/DS_projects/tree/main/Stocks_Market/Research">Research</a></td>
+      <td>Several research projects on the topic of financial markets and cryptocurrencies</td>
+      <td>Pandas, Numpy, Matplotlib, Binance, XGB, TensorFlow, Keras, SciPy</td>
+  </tr>
 </table>
 
 
